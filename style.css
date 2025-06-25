@@ -2,6 +2,10 @@ html{
   background-color: green;
 }
 
+body{
+  font-family: verdana;
+}
+
 .container{
   width: 1620px;
   height: 1000px;
@@ -76,6 +80,15 @@ li a:hover{
   border-style: solid;
   margin: 0 auto;
   background-color: #097969;
+}
+
+#main-heading{
+  width: 1000px;
+  height: 100px;
+  border-style: dotted;
+  background-color: orange;
+  margin: 0 auto;
+  margin-top: 10px; 
 }
 
 .footer{
