@@ -18,3 +18,11 @@ html{
       background-color: #097969;
       margin-top: 5px;
 }
+
+.navbar{
+  width: 1600px;
+  height: 60px;
+  border-style: solid;
+  margin: 0 auto;
+  background-color: #C4B454;
+}
