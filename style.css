@@ -94,7 +94,9 @@ li a:hover{
 #main-img{
   width: 300px;
   heigth: 300px;
+  border-style: dotted;
   float: left;
+  margin-left: 20px;
 }
 
 .footer{
