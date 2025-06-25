@@ -19,6 +19,25 @@ html{
   margin-top: 5px;
 }
 
+#logo-box{
+  width: 180px;
+  height: 180px;
+  border-style: dotted;
+  background-color: orange;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#banner-box{
+  width: 1000px;
+  height: 100px;
+  border-style: dotted;
+  background-color: orange;
+  margin-left: 400px;
+  margin-top: 150px; 
+}
+
 .navbar{
   width: 1600px;
   height: 60px;
