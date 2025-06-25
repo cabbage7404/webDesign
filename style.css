@@ -91,6 +91,12 @@ li a:hover{
   margin-top: 10px; 
 }
 
+#main-img{
+  width: 300px;
+  heigth: 300px;
+  float: left;
+}
+
 .footer{
   width: 1600px;
   height: 180px;
