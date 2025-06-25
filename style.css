@@ -1,22 +1,22 @@
 html{
-      background-color: green;
+  background-color: green;
 }
 
 .container{
-      width: 1620px;
-      height: 1000px;
-      border-style: solid;
-      margin: 0 auto;
-      background-color: #88E788;
+  width: 1620px;
+  height: 1000px;
+  border-style: solid;
+  margin: 0 auto;
+  background-color: #88E788;
 }
 
 .header{
-      width: 1600px;
-      height: 200px;
-      border-style: dotted;
-      margin: 0 auto;
-      background-color: #097969;
-      margin-top: 5px;
+  width: 1600px;
+  height: 200px;
+  border-style: dotted;
+  margin: 0 auto;
+  background-color: #097969;
+  margin-top: 5px;
 }
 
 .navbar{
