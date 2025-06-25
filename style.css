@@ -26,3 +26,19 @@ html{
   margin: 0 auto;
   background-color: #C4B454;
 }
+
+.main{
+  width: 1600px;
+  height: 400px;
+  border-style: solid;
+  margin: 0 auto;
+  background-color: #097969;
+}
+
+.footer{
+  width: 1600px;
+  height: 180px;
+  border-style: solid;
+  margin: 0 auto;
+  background-color: #C4B454;
+}
